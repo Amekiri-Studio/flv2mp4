@@ -38,7 +38,7 @@ winget install ffmpeg
 2. 克隆此仓库（或下载此项目并解压）
 
 ```powershell
-git clone git@github.com:Amekiri-Studio/flv2mp4.git
+git clone https://github.com/Amekiri-Studio/flv2mp4.git
 ```
 
 3. 进入**flv2mp4**（若直接下载并解压后则在**flv2mp4-master**）目录，应该会有如下文件
@@ -129,7 +129,7 @@ sudo zypper install ffmpeg
 通过``Git``，将该项目克隆到本地目录：
 
 ```shell
-git clone git@github.com:Amekiri-Studio/flv2mp4.git
+git clone https://github.com/Amekiri-Studio/flv2mp4.git
 ```
 
 3. 进入`flv2mp4`目录，应该会有以下文件：
