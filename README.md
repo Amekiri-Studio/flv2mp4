@@ -61,8 +61,8 @@ Mode                 LastWriteTime         Length Name
 
 使用方法：
 
-1. 将文件直接复制到FLV视频文件目录，然后双击运行，按照提示操作
-2. 打开终端（Powershell），然后执行以下命令：
+方法1：将文件直接复制到FLV视频文件目录，然后双击运行，按照提示操作
+方法2：打开终端（Powershell），然后执行以下命令：
 
 ```powershell
 .\flv2mp4.bat [FLV视频目录] [mp4/mkv]
@@ -80,8 +80,8 @@ Mode                 LastWriteTime         Length Name
 
 使用方法：
 
-1. 将文件直接复制到FLV视频文件目录，然后双击运行。此批处理文件将会快速进行处理
-2. 打开终端（Powershell），然后执行以下命令：
+方法1：将文件直接复制到FLV视频文件目录，然后双击运行。此批处理文件将会快速进行处理
+方法2：打开终端（Powershell），然后执行以下命令：
 
 ```powershell
 .\flvcleaner.bat [FLV视频目录]
