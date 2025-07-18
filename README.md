@@ -62,6 +62,7 @@ Mode                 LastWriteTime         Length Name
 使用方法：
 
 方法1：将文件直接复制到FLV视频文件目录，然后双击运行，按照提示操作
+
 方法2：打开终端（Powershell），然后执行以下命令：
 
 ```powershell
@@ -81,6 +82,7 @@ Mode                 LastWriteTime         Length Name
 使用方法：
 
 方法1：将文件直接复制到FLV视频文件目录，然后双击运行。此批处理文件将会快速进行处理
+
 方法2：打开终端（Powershell），然后执行以下命令：
 
 ```powershell
