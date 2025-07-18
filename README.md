@@ -92,7 +92,7 @@ Mode                 LastWriteTime         Length Name
 使用案例：
 
 ```powershell
-.\flvcleaner.bat E:\Videos\flv mp4
+.\flvcleaner.bat E:\Videos\flv
 ```
 
 通过此批处理，可以快速删除不需要的FLV文件，从而节约磁盘空间。
